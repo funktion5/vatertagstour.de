@@ -7,8 +7,12 @@
 ## Stack & commands
 
 - Rebuild of the live WordPress site vatertagstour.de (German Vatertag affiliate site).
-- Target stack: not scaffolded yet in this repo.
-- Install / build / test / lint: `TODO` once the app is scaffolded.
+- Laravel 13 (PHP 8.5 locally), SQLite for local dev. Fresh rebuild started 2026-11-05;
+  the older Windows-machine build (2026-09) is not the base for this repo.
+- Install: `composer install && cp .env.example .env && php artisan key:generate && php artisan migrate`
+- Dev server: `php artisan serve`
+- Test: `php artisan test`
+- Lint / format: `vendor/bin/pint`
 
 ## Structure
 
