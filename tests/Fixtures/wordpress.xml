@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wp="http://wordpress.org/export/1.2/">
+<channel>
+  <wp:term><wp:term_id>5</wp:term_id><wp:term_taxonomy>tourausruestung</wp:term_taxonomy><wp:term_slug>rund-ums-bier</wp:term_slug><wp:term_name><![CDATA[Rund ums Bier]]></wp:term_name></wp:term>
+  <wp:term><wp:term_id>9</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>footer</wp:term_slug><wp:term_name>footer</wp:term_name></wp:term>
+
+  <item>
+    <title>Trinkhelm BEER &#8211; Prost</title>
+    <content:encoded><![CDATA[Siehe <a href="https://www.vatertagstour.de/tourausruestung/">Shop</a> <img src="https://www.vatertagstour.de/wp-content/uploads/helm.jpg">]]></content:encoded>
+    <wp:post_id>10</wp:post_id><wp:post_date_gmt>2016-01-28 07:44:03</wp:post_date_gmt>
+    <wp:post_name>trinkhelm</wp:post_name><wp:status>publish</wp:status><wp:post_type>product</wp:post_type>
+    <category domain="tourausruestung" nicename="rund-ums-bier"><![CDATA[Rund ums Bier]]></category>
+    <wp:postmeta><wp:meta_key>vatertagstour.de_meint:</wp:meta_key><wp:meta_value>Hand frei!</wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>product_rating</wp:meta_key><wp:meta_value>3.5</wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_thumbnail_id</wp:meta_key><wp:meta_value>by_url</wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_thumbnail_ext_url</wp:meta_key><wp:meta_value>https://m.media-amazon.com/images/I/a.jpg</wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>product_gallery_external</wp:meta_key><wp:meta_value>2</wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>product_gallery_external_0_url</wp:meta_key><wp:meta_value>https://m.media-amazon.com/images/I/b.jpg</wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>product_gallery_external_0_alt</wp:meta_key><wp:meta_value>Helm &#8211; 2</wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>product_gallery_external_1_url</wp:meta_key><wp:meta_value>https://m.media-amazon.com/images/I/c.jpg</wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>product_gallery_external_1_hide</wp:meta_key><wp:meta_value>1</wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>product_shops</wp:meta_key><wp:meta_value>2</wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>product_shops_0_portal</wp:meta_key><wp:meta_value>amazon</wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>product_shops_0_amazon_asin</wp:meta_key><wp:meta_value>B002IKFPCS</wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>product_shops_0_link</wp:meta_key><wp:meta_value>https://www.amazon.de/dp/B002IKFPCS?tag=vatertagstour-21</wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>product_shops_0_price</wp:meta_key><wp:meta_value>12.99</wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>product_shops_1_portal</wp:meta_key><wp:meta_value>none</wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>product_shops_1_link</wp:meta_key><wp:meta_value>https://example.com</wp:meta_value></wp:postmeta>
+  </item>
+
+  <item>
+    <title>Fotos 1993</title>
+    <content:encoded><![CDATA[Die Tour ums Meer.
+[envira-gallery id="20"]]]></content:encoded>
+    <wp:post_id>11</wp:post_id><wp:post_date_gmt>2015-03-05 11:13:15</wp:post_date_gmt>
+    <wp:post_name>fotos-1993</wp:post_name><wp:status>publish</wp:status><wp:post_type>post</wp:post_type>
+  </item>
+
+  <item>
+    <title>Fotos 1993</title>
+    <wp:post_id>20</wp:post_id><wp:post_name>fotos-1993</wp:post_name><wp:status>publish</wp:status><wp:post_type>envira</wp:post_type>
+    <wp:postmeta><wp:meta_key>_eg_gallery_data</wp:meta_key><wp:meta_value><![CDATA[a:2:{s:2:"id";i:20;s:7:"gallery";a:2:{i:1;a:3:{s:6:"status";s:6:"active";s:3:"src";s:58:"https://www.vatertagstour.de/wp-content/uploads/goe025.jpg";s:7:"caption";s:6:"goe025";}i:2;a:2:{s:6:"status";s:7:"pending";s:3:"src";s:58:"https://www.vatertagstour.de/wp-content/uploads/goe026.jpg";}}}]]></wp:meta_value></wp:postmeta>
+  </item>
+
+  <item>
+    <title>Vatertagslieder</title>
+    <content:encoded><![CDATA[[playlist ids="30"]]]></content:encoded>
+    <wp:post_id>12</wp:post_id><wp:post_name>vatertagslieder</wp:post_name><wp:status>publish</wp:status><wp:post_type>page</wp:post_type>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value>Lieder zum Vatertag</wp:meta_value></wp:postmeta>
+  </item>
+
+  <item>
+    <title></title>
+    <wp:post_id>13</wp:post_id><wp:post_name></wp:post_name><wp:status>draft</wp:status><wp:post_type>page</wp:post_type>
+  </item>
+
+  <item>
+    <title>Wir fahren in die Videothek</title>
+    <content:encoded><![CDATA["Wir fahren in die Videothek" von Promillo Ranch Studio.]]></content:encoded>
+    <wp:post_id>30</wp:post_id><wp:status>inherit</wp:status><wp:post_type>attachment</wp:post_type>
+    <wp:attachment_url>https://www.vatertagstour.de/wp-content/uploads/videothek.mp3</wp:attachment_url>
+  </item>
+</channel>
+</rss>
