@@ -1,0 +1,5 @@
+# WordPress WXR exports (<site>.WordPress.<date>.xml) contain author emails and drafts
+*.WordPress.*.xml
+
+.env
+.DS_Store
